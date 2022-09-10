@@ -6,4 +6,4 @@ A new Flutter project. Inspired from Microsoft Teams calender.
 
 This project is a starting point for a Flutter application.
 
-![](https://github.com/flutter-event-calender/demo.gif)
+![](https://github.com/manoj-narasimha/flutter-event-calender/demo.gif)
